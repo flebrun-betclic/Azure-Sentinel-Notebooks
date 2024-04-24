@@ -1,2 +1,6 @@
 msticpy>=1.6.0
 nbformat
+python-dotenv
+shap
+plotly
+nbformat
